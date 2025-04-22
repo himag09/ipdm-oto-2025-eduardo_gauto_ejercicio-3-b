@@ -66,7 +66,7 @@ fun TaskCompleted(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun TaskAdministratorPreview() {
     TaskAdministratorEjercicio3bTheme {
         TaskCompleted()
     }
